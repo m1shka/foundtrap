@@ -19,8 +19,8 @@ Foundations kitchen sink:
 [http://foundation.zurb.com/sites/docs/kitchen-sink.html](http://foundation.zurb.com/sites/docs/kitchen-sink.html)
 
 Merged variant. Imo, looks much better: 
-[http://blog.m1web.ru/demos/foundtrap/index.html]http://blog.m1web.ru/demos/foundtrap/index.html
-[http://blog.m1web.ru/demos/foundtrap/kitchen.html]http://blog.m1web.ru/demos/foundtrap/kitchen.html
+[http://blog.m1web.ru/demos/foundtrap/index.html](http://blog.m1web.ru/demos/foundtrap/index.html)
+[http://blog.m1web.ru/demos/foundtrap/kitchen.html](http://blog.m1web.ru/demos/foundtrap/kitchen.html)
 
 ## List of edits
 typography
